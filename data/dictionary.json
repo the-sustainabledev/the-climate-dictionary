@@ -482,6 +482,17 @@
             "Greenwashing refers to situations where a company makes misleading claims about their positive environmental impact or the sustainability of their products and services to convince consumers that they are acting on climate change. In some cases, greenwashing can be unintentional, because of lack of knowledge on environmental issues. However, it can also be carried out intentionally as a marketing and public relations exercise, exploiting public support towards environmental policies for profit.",
             "Greenwashing can erode public confidence in sustainability and allow negative environmental impacts to continue unabated."
           ]
+        },
+        {
+          "title": "GRI",
+          "id": "global-reporting-initiative",
+          "phonetic": "abbreviation",
+          "source": "globalreporting.org",
+          "sourceLink": "https://www.globalreporting.org/",
+          "content": [
+            "GRI stands for Global Reporting Initiative. It is a common global language to assess and report environmental, social and economic impacts, as articulated though the GRI Standards – the world’s most widely used sustainability reporting system.",
+            "The GRI work with businesses, investors, policymakers, civil society, labor organizations and other experts to develop the GRI Standards and promote their use. The standards are used by over 14,000 organizations in over 100 countries."
+          ]
         }
       ]
     },
