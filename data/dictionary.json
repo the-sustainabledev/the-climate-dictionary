@@ -462,13 +462,34 @@
         {
           "title": "Greenhouse gas emissions",
           "id": "greenhouse-gas-emissions",
-          "phonetic": "noun /ˌɡriːn.haʊs ˈɡæs ɪˈmɪʃns/",
+          "phonetic": "noun /ˈɡriːn.haʊs ˈɡæs ɪˈmɪʃns/",
           "source": "UNDP",
           "sourceLink": "https://www.undp.org/",
           "content": [
             "Greenhouse gases are gases that trap heat from the sun in our planet’s atmosphere, keeping it warm. Since the industrial era began, human activities have led to the release of dangerous levels of greenhouse gases, causing global warming and climate change.",
             "The main greenhouse gases released by human activities are carbon dioxide, methane, nitrous oxide, and fluorinated gases used for cooling and refrigeration. Carbon dioxide is the primary greenhouse gas resulting from human activities, particularly from burning fossil fuels, deforestation, and changing the way land is used. Our reliance on fossil fuels has led to a 50 percent increase in the concentrations of carbon dioxide in the atmosphere over the last 200 years. Methane is another important greenhouse gas that is responsible for 25 percent of global warming. Methane is released during the extraction and transport of coal, gas, and oil, and by waste landfills and agricultural practices.",
             "To prevent catastrophic climate change, the world’s governments must work together to significantly reduce greenhouse gas emissions now and in the coming decades and keep global warming below the dangerous threshold of 1.5°C."
+          ]
+        },
+        {
+          "title": "Greenhushing",
+          "id": "greenhushing",
+          "phonetic": "noun /ˈɡriːn hʌʃ.tɪŋ/",
+          "source": "Net Zero Now",
+          "sourceLink": "https://netzeronow.org/post/what-is-greenhushing",
+          "content": [
+            "The act of deliberately withholding information about a businesses environmental efforts and achievements. This phenomenon stems from various motivations, including fear of criticism, scepticism, and the desire to avoid the spotlight until substantial results are achieved.",
+            "Unlike greenwashing, which exaggerates sustainability claims, greenhushing keeps them in the shadows, often leaving stakeholders in the dark about a company’s environmental impact and initiatives."
+          ]
+        },
+        {
+          "title": "Greenshouting",
+          "id": "greenshouting",
+          "phonetic": "noun /ˈɡriːn ʃaʊ.tɪŋ/",
+          "source": "B Lab",
+          "sourceLink": "",
+          "content": [
+            "The anitodote to greenwashing. Boldly celebrating real progress in your businesses sustainability whilst backing it up with verified impact."
           ]
         },
         {
