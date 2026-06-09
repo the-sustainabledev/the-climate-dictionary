@@ -8,7 +8,7 @@
           "id": "access-and-benefit-sharing",
           "phonetic": "noun /ˈækˌsɛs/ /ˈbɛnᵻfɪt ʃɛ(ə)rɪŋ/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Access and benefit sharing means the fair and equitable sharing of the benefits that come from the use of genetic resources.",
             "Many valuable genetic resources from plants, animals and microbes are found in developing countries with rich biodiversity. They have often been safeguarded by Indigenous Peoples and local communities for generations, together with traditional knowledge about their use and value. These resources can have many different purposes, including medical research, agricultural innovations, and commercial products such as cosmetics and beverages, representing significant benefits. The benefits resulting from their use can be financial, educational and cultural and should be shared fairly with the people or countries that provided them.",
@@ -20,7 +20,7 @@
           "id": "adaptation",
           "phonetic": "noun /ædæpˈteɪʃn/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Climate change adaptation refers to actions that help reduce vulnerability to the current or expected impacts of climate change like weather extremes and natural disasters, sea-level rise, biodiversit loss, or food and water insecurity.",
             "Many adaptation measures need to happen at the local level, so rural communities and cities have a big role to play. Such measures include planting crop varieties that are more resistant to drought and practicing regenerative agriculture, improving water storage and use, managing land to reduce wildfire risks, and building stronger defenses against extreme weather like floods and heat waves.",
@@ -59,11 +59,22 @@
           ]
         },
         {
+          "title": "Biodiversity",
+          "id": "biodiversity",
+          "phonetic": "noun /ˌbʌɪə(ʊ)dʌɪˈvəːsɪti/",
+          "source": "WHO",
+          "sourceLink": "https://www.who.int/news-room/fact-sheets/detail/biodiversity",
+          "content": [
+            "Biodiversity, the variability among living organisms from all sources, underpins all life on Earth. This includes diversity within species, between species and across ecosystems, representing the genetic makeup of plants, animals, microorganisms and the complexity of ecosystems.",
+            "Healthy communities are sustained by well-functioning ecosystems, which provide critical services such as clean air, fresh water, natural medicines and food security. These ecosystems also regulate diseases and help stabilize the climate."
+          ]
+        },
+        {
           "title": "Blue economy",
           "id": "blue-economy",
           "phonetic": "noun /ˈbluː ɪˈkɒnəmi/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "The world’s oceans – their temperature, chemistry, currents, and life – drive global systems that make Earth habitable for humankind. Our rainwater, drinking water, weather, climate, coastlines, much of our food, medicines and even the oxygen in the air we breathe, are all provided and regulated by the seas. However, because of climate change, the health of our oceans is now at significant risk.",
             "The \"blue economy\" concept seeks to promote economic development, social inclusion, and the preservation or improvement of livelihoods while at the same time ensuring environmental sustainability of the oceans and coastal areas.",
@@ -80,7 +91,7 @@
           "id": "carbon-credits",
           "phonetic": "noun /ˈkɑːbən ˈkrɛdɪts/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Carbon credits are tradable, digital certificates, each one representing the reduction, avoidance, or removal of one tonne of carbon dioxide equivalent (CO2e).",
             "Companies, governments, and other organisations buy carbon credits to support global climate action beyond their own value chain. In doing so, they finance climate projects such as renewable energy or forest protection projects that avoid or remove emissions from the atmosphere."
@@ -104,7 +115,7 @@
           "id": "carbon-footprint",
           "phonetic": "noun /ˈkɑːbən ˈfʊtprɪnt/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "A carbon footprint is a measure of the greenhouse gas emissions released into the atmosphere by a particular person, organization, product, or activity. A bigger carbon footprint means more emissions of carbon dioxide and methane, and therefore a bigger contribution to the climate crisis.",
             "Measuring a person’s or an organization’s carbon footprint entails looking at both the direct emissions resulting from the burning of fossil fuels for energy production, heating, and land and air travel, and indirect emissions resulting from the production and disposal of all food, manufactured goods, and services they consume.",
@@ -129,7 +140,7 @@
           "id": "carbon-markets",
           "phonetic": "noun /ˈkɑːbən mɑːkɪts/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Carbon markets are trading schemes that create financial incentives for activities that reduce or remove greenhouse gas emissions. In these schemes, emissions are quantified into carbon credits that can be bought and sold. One tradable carbon credit equals one tonne of carbon dioxide, or the equivalent amount of a different greenhouse gas reduced, sequestered or avoided.",
             "Carbon credits can be bought by countries as part of their NDC strategy, by corporations with sustainability targets, and by private individuals that want to compensate for their carbon footprint.",
@@ -152,7 +163,7 @@
           "id": "carbon-removal-vs-carbon-capture",
           "phonetic": "noun /ˈkɑːbən kæptʃə(r)/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Carbon removal is the process of removing greenhouse gas emissions from the atmosphere, through natural solutions such as reforestation and soil management or technological solutions like direct air capture and enhanced mineralization. Carbon removal is not a substitute for cutting greenhouse gas emissions, but it can slow down climate change and is necessary to shorten any period during which we temporarily overshoot our climate targets.",
             "Carbon capture and storage is the process of trapping carbon emissions produced by fossil fuel power plants or other industrial processes before they can enter our atmosphere by storing them deep underground. Carbon capture and storage should not be seen as an alternative to the green energy transition, but it has been proposed as a way to tackle emissions from sectors that are difficult to decarbonize, particularly heavy industries like cement, steel, and chemicals.",
@@ -164,7 +175,7 @@
           "id": "carbon-sink",
           "phonetic": "noun /ˈkɑːbən sɪŋk/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "A carbon sink is any process, activity, or mechanism that absorbs more carbon dioxide from the atmosphere than it releases. Forests, oceans, and soil are the world’s largest natural carbon sinks.",
             "Oceans absorb carbon dioxide from the atmosphere through marine ecosystems and the plant and animal life they harbor. Sequestering carbon in marine ecosystems is generally referred to as blue carbon. Forests and soil are the other main natural carbon sinks of the planet, storing carbon in trees and vegetation, wetlands and peat bogs, and plant litter.",
@@ -176,7 +187,7 @@
           "id": "circular-economy",
           "phonetic": "noun /ˈsɜːkjələ(r) ɪˈkɒnəmi/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Circular economy refers to models of production and consumption that minimize waste and reduce pollution, promote sustainable uses of natural resources, and help regenerate nature.",
             "Circular economy approaches are all around us. They can be employed in a number of different sectors from textiles to buildings and construction, and at various stages of a product’s lifecycle, including design, manufacturing, distribution, and disposal.",
@@ -189,7 +200,7 @@
           "id": "climate-crisis",
           "phonetic": "noun /ˈklaɪmət kraɪsɪs/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "The climate crisis refers to the serious problems that are being caused, or are likely to be caused, by changes in the planet’s climate, including weather extremes and natural disasters, ocean acidification and sea-level rise, loss of biodiversity, food and water insecurity, health risks, economic disruption, displacement, and even violent conflict.",
             "Since the 1800s, human activities have caused the Earth’s average temperature to increase by about 1.2° C – with more than two-thirds of this warming occurring since 1975. This is already causing significant damage to human societies and natural ecosystems in many parts of the world. More than 3 billion people live in places that are very vulnerable to the climate crisis, with lower income countries being disproportionately affected.",
@@ -201,7 +212,7 @@
           "id": "climate-finance",
           "phonetic": "noun /ˈklaɪmət ˈfaɪnæns/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Climate finance refers to financial resources and instruments that are used to support action on climate change. Climate finance is critical to addressing climate change because of the large-scale investments that are needed to transition to a low-carbon global economy and to help societies build resilience and adapt to the impacts of climate change.",
             "Climate finance can come from different sources, public or private, national or international, bilateral or multilateral. It can employ different instruments such as grants and donations, green bonds, debt swaps, guarantees, and concessional loans. And it can be used for different activities, including mitigation, adaptation, and resilience-building.",
@@ -213,7 +224,7 @@
           "id": "climate-justice",
           "phonetic": "noun /ˈklaɪmət ˈdʒʌstɪs/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Climate justice means putting equity and human rights at the core of decision-making and action on climate change.",
             "One aspect of climate justice relates to the unequal historical responsibility that countries bear in relation to the climate crisis. The concept suggests that the countries, industries, and businesses that have become wealthy from activities that emitted the most greenhouse gas emissions have a responsibility to help mitigate the impacts of climate change on those affected, particularly the most vulnerable countries and communities, who often are the ones that havecontributed the least to the crisis.",
@@ -226,7 +237,7 @@
           "id": "climate-overshoot",
           "phonetic": "noun /ˈklaɪmət ˌəʊvəˈʃuːt/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Under the Paris Agreement, countries are expected to take the necessary measures to avoid dangerous climate change by limiting global warming to well below 2°C and pursuing efforts to limit it to 1.5°C. But even best-case scenarios now indicate a significant chance of overshooting these goals, even if temporarily. Climate overshoot refers to the period during which warming will have increased past 1.5° C, before falling back down. This period will probably occur around the middle of this century but troubling signs are emerging that it may occur even earlier.",
             "The longer the climate overshoot lasts, the more dangerous the world will become. A prolonged period of higher global temperatures will have devastating and irreversible impacts on natural ecosystems, biodiversity, and human communities, particularly in dry areas, coastal zones, and other vulnerable locations. Making deep emission cuts during this decade is of extreme importance to limiting the duration and impacts of the climate overshoot."
@@ -237,7 +248,7 @@
           "id": "climate-security",
           "phonetic": "noun /ˈklaɪmət sɪˈkjʊərəti/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Climate change can exacerbate food, water, and livelihood insecurity, with cascading effects such as displacement and migration and increased competition over natural resources, all of which can lead to increased tensions and instability in a country or a region.",
             "Furthermore, the impacts of climate change can aggravate or prolong existing violent conflicts and make it more difficult to deliver climate action and to reach and sustain peace.",
@@ -261,7 +272,7 @@
           "id": "cop",
           "phonetic": "abbreviation",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "The annual United Nations conference dedicated to climate change, called “the Conference of the Parties” or “COP,” has been organized under the UN Framework Convention on Climate Change (UNFCCC) since 1995. At the 21st COP, or COP21, which took place in 2015, the Paris Agreement was signed.",
             "The conference now brings together all nations who are parties to the Paris Agreement to discuss their next steps to combat climate change and further establish legally binding agreements to support climate action."
@@ -289,7 +300,7 @@
           "id": "decarbonisation",
           "phonetic": "noun /ˌdiːˌkɑːbənaɪˈzeɪʃn/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Decarbonization means reducing the amount of greenhouse gas emissions that a society produces, as well as increasing the amount that is being absorbed. It entails changing many, if not all, aspects of the economy, from how energy is generated, to how goods and services are produced and delivered, to how buildings are built and how lands are managed.",
             "To meet the goals of the Paris Agreement and keep the 1.5° target alive, governments and businesses must rapidly decarbonize by 2030.",
@@ -301,7 +312,7 @@
           "id": "deforestation",
           "phonetic": "noun /diːˌfɒr.ɪˈsteɪ.ʃən/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Deforestation is the intentional clearing of forested land to make space for agriculture and livestock pasture, and to cut and process wood for fuel, manufacturing, and construction.",
             "Today, rainforests are where most of worldwide deforestation occurs, especially in tropical regions for logging, cattle grazing, and plantations."
@@ -329,7 +340,7 @@
           "id": "ecocide",
           "phonetic": "noun /ˈɛkəˌsaɪd/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Ecocide is the devastation or destruction of nature to the detriment of life, the ‘unlawful or wanton acts committed with knowledge that there is a substantial likelihood of causing severe and either widespread or long-term damage to the environment’.",
             "Several countries have passed national ecocide laws to deter actions that cause serious environmental destruction, establishing personal criminal liability for such acts. This could mean that individuals, including corporate leaders and heads of state, could be prosecuted and face imprisonment for causing major environmental harm.",
@@ -365,7 +376,7 @@
           "id": "environmental-justice",
           "phonetic": "noun /ənˌvaɪrə(n)ˈmɛn(t)l ˈdʒəstəs/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Environmental justice is the goal of promoting justice and accountability in environmental matters, focusing on the respect, protection and fulfilment of environmental rights for both present and future generations, and the promotion of the environmental rule of law. It supports the principle that everyone has the right to a clean, healthy and sustainable environment.",
             "The triple planetary crisis of biodiversity loss, climate change, and pollution undermines human rights and worsens inequalities. These interlinked crises act as threat multipliers, amplifying conflicts and structural inequalities, and forcing people into increasingly vulnerable situations, particularly those from communities who are already marginalized.",
@@ -381,6 +392,18 @@
           "content": [
             "Environmental, Social, and Governance is a holistic framework that measures the sustainable and ethical behaviour of a business.",
             "The criteria ensure that a business is being socially responsible and held accountable, which is in the best interest of shareholders and potential investors."
+          ]
+        },
+        {
+          "title": "Environmental sustainability",
+          "id": "environmental-sustainability",
+          "phonetic": "noun /ənˌvaɪrə(n)ˈmɛn(t)l /səˌsteɪ.nəˈbɪl.ə.ti/",
+          "source": "",
+          "sourceLink": "",
+          "content": [
+            "The responsible management of natural resources to meet current needs without compromising the ability of future generations to meet theirs.",
+            "Environmental sustainability requires maintaining an ecological balance by reducing pollution, consuming resources at a rate nature can replenish, and protecting ecosystems.",
+            "By doing this we ensure long-term environmental health."
           ]
         },
         {
@@ -404,7 +427,7 @@
           "id": "feedback-loop",
           "phonetic": "/ˈfiːdbæk luːp/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Climate feedback loops happen when one change in the climate triggers further changes, in a chain reaction that reinforces itself as time goes on. Ultimately, feedback loops can trigger tipping points, at which point the changes to our planet’s climate systems becom severe and irreversible.",
             "Currently, scientists are aware of some serious feedback loops that are driving global warming. For example, as sea ice in the Arctic melts, more heat is being absorbed by the darker ocean waters, thus speeding up the warming process and leading to more ice melting. Similarly, as wildfires burn down forests, they release greenhouse gases leading to more warming and more wildfires. Other feedback loops include the thawing of the permafrost, forest dieback, and insect outbreaks."
@@ -431,7 +454,7 @@
           "id": "global-biodiversity-framework",
           "phonetic": "noun /ˈɡloʊb(ə)l ˌbaɪoʊdəˈvərsədi ˈfreɪmˌwərk/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "The Global Biodiversity Framework is a plan developed by the United Nations and its member countries to reach the global vision of a world living in harmony with nature by 2050. The framework was adopted by 196 countries in 2022 at the UN Biodiversity Conference (COP15). It sets out 23 specific targets to be achieved by 2030, along with four long-term goals for 2050.",
             "The Global Biodiversity Framework outlines a clear strategy for countries to follow to protect and restore biodiversity. Countries agreed to 23 targets to achieve by 2030 including commitments to conserve 30 percent of land, sea and inland waters, restore 30 percent of degraded ecosystems, halve the introduction of invasive species, and reduce harmful subsidies by US$500 billion per year. In addition, the four long-term goals focus on guaranteeing the health of species and ecosystems and halting extinction, using biodiversity sustainably and sharing the benefits equitably, as well as closing the biodiversity finance gap, which currently amounts to $700 billion per year."
@@ -442,7 +465,7 @@
           "id": "global-warming-vs-climate-change",
           "phonetic": "Such as more intense and/or frequent hurricanes, floods and heat waves",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Global warming is an increase in the Earth’s average surface temperature that occurs when the concentration of greenhouse gases in the atmosphere increases. These gases absorb more solar radiation and trap more heat, thus causing the planet to get hotter. Burning fossil fuels, cutting down forests, and farming livestock are some human activities that release greenhouse gases and contribute to global warming.",
             "Climate change refers to the long-term changes in the Earth’s climate that are warming the atmosphere, ocean and land. Climate change is affecting the balance of ecosystems that support life and biodiversity, and impacting health. It also causes more extreme weather events, and droughts, and leads to sea level rise and coastal erosion as a result of ocean warming, melting of glaciers, ad loss of ice sheets."
@@ -453,7 +476,7 @@
           "id": "green-jobs",
           "phonetic": "noun /ɡriːn dʒɒb/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Green jobs are decent jobs that contribute to protecting and restoring the environment and addressing climate change. Green jobs can be found in both the production of green products and services, such as renewable energy, and in environmentally friendly processes, such as recycling. Green jobs help improve energy and raw material efficiency, limit greenhouse gas emissions, minimize waste and pollution, protect and restore ecosystems, and support adaptation to the impacts of climate change.",
             "As the market for green jobs is expanding, countries must ensure that the workforce is equipped with the specific skills and education required to carry them out. This can be achieved by investing in training young people for future green jobs and by retraining workers from carbon-intensive industries. The latter is a key part of ensuring countries are pursuing a just transition and leave no one behind."
@@ -464,7 +487,7 @@
           "id": "greenhouse-gas-emissions",
           "phonetic": "noun /ˈɡriːn.haʊs ˈɡæs ɪˈmɪʃns/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Greenhouse gases are gases that trap heat from the sun in our planet’s atmosphere, keeping it warm. Since the industrial era began, human activities have led to the release of dangerous levels of greenhouse gases, causing global warming and climate change.",
             "The main greenhouse gases released by human activities are carbon dioxide, methane, nitrous oxide, and fluorinated gases used for cooling and refrigeration. Carbon dioxide is the primary greenhouse gas resulting from human activities, particularly from burning fossil fuels, deforestation, and changing the way land is used. Our reliance on fossil fuels has led to a 50 percent increase in the concentrations of carbon dioxide in the atmosphere over the last 200 years. Methane is another important greenhouse gas that is responsible for 25 percent of global warming. Methane is released during the extraction and transport of coal, gas, and oil, and by waste landfills and agricultural practices.",
@@ -497,7 +520,7 @@
           "id": "greenwashing",
           "phonetic": "noun /ˈɡriːnwɒʃɪŋ/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "With public pressure to address the climate crisis rising, private sector companies are joining the transition to a low-carbon global economy. However, their efforts can sometimes turn into more of a marketing exercise than real, meaningful action.",
             "Greenwashing refers to situations where a company makes misleading claims about their positive environmental impact or the sustainability of their products and services to convince consumers that they are acting on climate change. In some cases, greenwashing can be unintentional, because of lack of knowledge on environmental issues. However, it can also be carried out intentionally as a marketing and public relations exercise, exploiting public support towards environmental policies for profit.",
@@ -525,7 +548,7 @@
           "id": "indigenous-knowledge",
           "phonetic": "noun /ɪnˈdɪdʒənəs ˈnɒlɪdʒ/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Indigenous Peoples’ ways of life are inherently low-carbon and emphasize balance between humans and the natural world. Their traditional practices have low impact on the environment and are",
             "responsive to it, fostering self-sustaining ecosystems. Indigenous knowledge, which is intergenerational and community-based, is a great source of meaningful climate solutions that can advance mitigation, enhance adaptation, and build resilience. It can also complement scientific data with precise landscape information that is critical to evaluating climate change scenarios.",
@@ -537,7 +560,7 @@
           "id": "ipcc",
           "phonetic": "abbreviation",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Intergovernmental Panel on Climate Change (IPCC) is an independent body founded under the auspices of the World Meteorological Organization (WMO) and the United Nations Environment Programme (UNEP).",
             "The IPCC’s main role is to assess the scientific literature and findings on climate change and provide vital scientific information and evidenced-based recommendations to policymakers and the public. It is widely recognized as the most credible source of information related to the science of climate change and its complex analysis of impacts, risks, and adaptation and mitigation options."
@@ -553,7 +576,7 @@
           "id": "just-transition",
           "phonetic": "/dʒʌst trænˈzɪʃn/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "In the context of climate change, transitioning to a low-carbon or net-zero economy requires massive transformation of our economic systems. Such transformation runs the risk of further increasing social inequality, exclusion, civil unrest, and less competitive businesses, sectors, and markets. As countries work to meet their climate goals, it’s vital that they ensure the whole-of-society – all communities, all workers, all social groups – are brought along and part of the structural change that takes place.",
             "Ensuring a just transition means that countries choose to green their economy through transition pathways and approaches that reinforce equality and inclusivity. This means looking at the impacts of the transition on different groups of workers across the economy and providing opportunities for training and reskilling that support decent work and aim to leave no one behind."
@@ -569,7 +592,7 @@
           "id": "land-degradation",
           "phonetic": "noun /lænd ˌdɛɡrəˈdeɪʃən/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Land degradation occurs when human activities exploit land leading to a decline in its usefulness, biodiversity, soil fertility and overall health. Land degradation has far-reaching consequences, disrupting rainfall patterns, increasing the frequency and intensity of extreme weather events like droughts and floods, and limiting the carbon storage potential of ecosystems and soils. These impacts affect food security and the social and political stability of communities and can lead to increased poverty, conflict and migration.",
             "If the current rate of land degradation continues, 90 percent of the world's land could be classified as degraded by 2050. Land degradation neutrality (LDN) is a state where the quantity and quality of land resources needed to support ecosystem functions and services remain stable or improve over time and across different locations and ecosystems. Land degradation neutrality can be achieved by adopting sustainable land management practices, transitioning to regenerative agriculture and restoring nature and degraded ecosystems. This is crucial to ensuring food security for a human population of over eight billion, as current agricultural practices degrade soils up to 100 times faster than they can regenerate through natural processes.",
@@ -581,7 +604,7 @@
           "id": "long-term-strategies",
           "phonetic": "noun /ˌlɒŋ ˈtɜːm ˈstrætədʒis/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Under the Paris Agreement, countries are invited to communicate long-term strategies (LTS) for emissions reductions that envision a whole-of-society transformation over several decades, usually up to 2050. LTS documents align to the long-term objectives of limiting global warming and achieving net-zero by 2050.",
             "Long-term strategies provide a long-term vision that gives coherence and direction to shorter-term national climate pledges like the NDCs.They guide countries to pursue low-carbon development and prevent fossil fuel-intensive investments, demonstrating the socio-economic benefits of the green transition. They boost innovation and can help drive investment in low-carbon solutions and sustainable infrastructure. And they help facilitate and promote just and equitable transitions for the people who are most affected, making sure that climate solutions are fair and inclusive.",
@@ -593,7 +616,7 @@
           "id": "loss-and-damage",
           "phonetic": "noun /lɒs ənd ˈdæmɪdʒ/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "There is no agreed definition of \"Loss and damage\" in the international climate negotiations. However, the term can refer to the unavoidable impacts of climate change that occur despite, or in the absence of, mitigation and adaptation. Importantly, it highlights that there are limits to what adaptation can accomplish; when tipping point thresholds are crossed, climate change impacts can become unavoidable.",
             "Loss and damage can refer to both economic and non-economic losses. Economic loss and damage can include things like the costs of rebuilding infrastructure that has repeatedly been damaged due to cyclones or floods, or the loss of coastline land (and homes and businesses) due to sea-level rise and coastal erosion.",
@@ -610,7 +633,7 @@
           "id": "mitigation",
           "phonetic": "noun /mɪtɪˈɡeɪʃn/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Climate change mitigation refers to any action taken by governments, businesses, or people to reduce or prevent greenhouse gas emissions, or to enhance carbon sinks that remove these gases from the atmosphere.",
             "Reducing or preventing greenhouse gas emissions can be achieved by transitioning to renewable energy sources like wind and solar, using energy more efficiently, adopting low carbon or carbon-free transportation modalities, promoting sustainable agriculture and land use, and changing production and consumption models and diet behaviors. Enhancing carbon sinks can be achieved by restoring forests, wetlands, and marshlands, maintaining soil health, and protecting terrestrial and marine ecosystems.",
@@ -628,7 +651,7 @@
           "id": "national-adaptation-plans",
           "phonetic": "noun /ˈnæʃnəl ˌædæpˈteɪʃn plæns/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "National Adaptation Plans (NAPs) help countries plan and implement actions to reduce vulnerability to the impacts of climate change and strengthen adaptive capacity and resilience. NAPs link to Nationally Determined Contributions (NDCs) and other national and sectoral policies and programmes.",
             "For NAPs to be successful they need to be participatory, inclusive, gender-responsive, and transparent. This means that at the design stage, NAPs need to evaluate the specific needs and vulnerabilities of different groups in the country, paying particular attention to those most vulnerable to climate change impacts and involving them in developing and implementing strategies and programmes."
@@ -639,7 +662,7 @@
           "id": "nbsaps",
           "phonetic": "noun /ˈnæʃən(ə)l ˌbaɪoʊdəˈvərsədi ˈstrædədʒi ˈækʃən plæns/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "National Biodiversity Strategies and Action Plans (NBSAPs) are national plans that guide the conservation and sustainable use of biodiversity in a country, developed under the Convention on Biological Diversity (CBD).",
             "NBSAPs are essential tools for countries to design and prioritize actions to protect nature and integrate them into national decision-making, economic planning and public policy. They play a particularly crucial role in mainstreaming environmental action and conservation across different sectors of public policy, which is central to achieving each country’s commitments made under the Global Biodiversity Framework and the goals of the CBD. Incorporating mainstreaming as a major feature of the NBSAPs is important because many national environmental focal points are not present in the most influential departments or ministries.",
@@ -652,7 +675,7 @@
           "id": "nationanally-determind-contributions",
           "phonetic": "noun /ˈnæʃnəli dɪˈtɜːmɪnd ˌkɒntrɪˈbjuːʃns/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Nationally Determined Contributions (NDCs) are climate pledges and action plans that each country is required to develop in line with the Paris Agreement goal of limiting global warming to 1.5° C. NDCs represent short to medium-term plans that are updated every five years with higher ambition on climate.",
             "NDCs outline mitigation and adaptation priorities a country will pursue to reduce greenhouse gas emissions, build resilience, and adapt to climate change, as well as financing strategies and monitoring and verification approaches. In 2023, the first in a series of global “stock takes” will conclude that assesses progress on the implementation of NDCs and Paris Agreement goals."
@@ -663,7 +686,7 @@
           "id": "nature-based-solutions",
           "phonetic": "noun /ˈneɪtʃə(r) beɪst səˈluːʃns/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Nature-based solutions are actions to protect, conserve, restore, and sustainably use and manage ecosystems to support climate change adaptation and mitigation efforts, preserve biodiversity, and enable sustainable livelihoods. They are actions that prioritize the importance of ecosystems and biodiversity and are designed and implemented with the full engagement and consent of local communities and Indigenous Peoples, who hold generational knowledge on protecting nature.",
             "Nature-based solutions are used in many ways, across terrestrial, freshwater, coastal, and marine ecosystems. Restoring wetlands protects communities from floods, while conserving mangrove forests supports food sources and minimizes the impact of storms. Forests absorb carbon dioxide, allow biodiversity to thrive, increase water security, and combat landslides, while urban parks and gardens help cool down cities and limit the impact of heatwaves. Regenerative agriculture practices increase the amount of carbon captured by the soil and restore its health and productivity.",
@@ -675,7 +698,7 @@
           "id": "nature-crisis",
           "phonetic": "noun /ˈneɪtʃər ˈkraɪsᵻs/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "The nature crisis refers to the rapid and dangerous decline of the world’s natural resources and stability of our ecological systems over the past century. It is driven by human activities such as deforestation, overfishing and pollution, which are linked to unsustainable patterns of production and consumption and a growing human population. At its roots, the nature crisis stems from the ways we underestimate the value of nature in our global systems and daily lives.",
             "Humanity is currently using resources equivalent to 1.7 Earths, which is far beyond what the planet’s ecosystems can regenerate. This consumption is much higher in high-income countries than in low- or middle-income ones and drives the triple planetary crisis of biodiversity loss, climate change and pollution.",
@@ -703,7 +726,7 @@
           "id": "planetary-boundaries",
           "phonetic": "noun /ˈplænəˌtɛri ˈbaʊnd(ə)ris/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Planetary boundaries define the Earth's limits of resources and protective systems that create a safe operating space for humanity. Planetary boundaries quantify the vulnerability of Earth’s life-supporting systems and explain the constraints on economic and population growth necessary to also maintain a stable environment. These boundaries challenge dominant economic views of an Earth with limitless capacity, highlighting that our development and survival are bound by ecological limits.",
             "Nine processes regulate the stability and resilience of the Earth’s system and there is a quantified planetary boundary for each. As of 2023, six boundaries—climate change, biosphere integrity, land system change, freshwater use, biogeochemical flows and novel entities (like human-made chemicals and plastics)—have already been crossed, posing serious risks to humanity and all life on Earth. Ocean acidification is also approaching a critical threshold."
@@ -719,7 +742,7 @@
           "id": "redd",
           "phonetic": "abbreviation",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Forest conservation and restoration can provide more than one quarter of the greenhouse gas emissions reductions needed to avoid the worst impacts of climate change. REDD+ is a framework agreed by countries in the international climate negotiations that aims to curb climate change by reducing deforestation and forest degradation, and sustainably managing and conserving forests in developing countries.",
             "REDD stands for \"Reducing Emissions from Deforestation and forest Degradation”. The “+” signifies the role of conservation, sustainable management of forests and enhancement of forest carbon stocks."
@@ -730,7 +753,7 @@
           "id": "reforestation-vs-afforestation",
           "phonetic": "noun /ˌriːfɒrɪˈsteɪʃn//əˌfɒrɪˈsteɪʃn/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Forests provide immense benefits by removing carbon dioxide and pollutants from the atmosphere, preventing soil erosion, filtering water, and housing half of the world’s land species of animals, plants and insects. Reforestation and afforestation are two of the most effective nature-based solutions in fighting climate change and limiting its impacts.",
             "Reforestation is the process of replanting trees in areas that had recent tree cover but where forests were lost, due to wildfires, drought, disease, or human activity such as agricultural clearing.",
@@ -742,7 +765,7 @@
           "id": "regenerative-agiculture",
           "phonetic": "noun /rɪˈdʒenərətɪv ˈæɡrɪkʌltʃə(r)/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Regenerative agriculture is a way of farming that nurtures and restores soil health, and therefore reduces water use, prevents land degradation, and promotes biodiversity. By minimizing land ploughing, practicing rotating crops, and using animal manure and compost, regenerative agriculture ensures that the soil stores more carbon, conserves more moisture, and is healthier due to thriving fungal communities.",
             "Intensive agriculture is responsible for a third of global greenhouse gas emissions, uses 70 percent of the fresh water we consume, and leads to soil degradation through its use of heavy machinery, chemical fertilizers, and pesticides. It is also the biggest contributor to biodiversity loss. By contrast, regenerative agriculture helps lower greenhouse gas emissions, conserves water, and restores land. Moreover, healthy soil produces more food and better nutrition and has other positive impacts on ecosystems and biodiversity."
@@ -753,7 +776,7 @@
           "id": "renewable-energy",
           "phonetic": "noun /rɪˈnjuːəbl ˈenədʒi/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Renewable energy is energy derived from natural sources that are constantly being replenished, such as wind, sunlight, the flow of moving water, and geothermal heat. In contrast to energy sourced from fossil fuels like coal, oil, and gas, which accounts for 75 percent of the harmful greenhouse gas emissions that are causing climate change, energy from renewable sources is cheap, clean, sustainable, and generates more jobs.",
             "Transitioning from fossil fuels to renewable energy in all sectors – power, heating and cooling, transportation, and industry – is key to addressing the climate crisis. To stay under 1.5°C of global warming, the world needs to immediately phase out fossil fuel use and undergo a profound transformation of the energy system through rapid electrification and sourcing energy from renewable sources.",
@@ -765,7 +788,7 @@
           "id": "resilience",
           "phonetic": "noun /rɪˈzɪliəns/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Climate resilience is the capacity of a community or environment to anticipate and manage climate impacts, minimize their damage, and recover and transform as needed after the initial shock.",
             "To best safeguard societal wellbeing, economic activity, and the environment, people, communities, and governments need to be equipped to deal with the unavoidable impacts of climate change.",
@@ -778,7 +801,7 @@
           "id": "rewilding",
           "phonetic": "noun /ˌriːˈwaɪldɪŋ/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Rewilding is the mass restoration of ecosystems that have been damaged by human activity. More than conservation, which focuses on saving specific species through dedicated human intervention, rewilding refers to setting aside large areas for the natural world to regenerate in on its own terms. This sometimes requires the reintroduction of key species that have been driven extinct in a particular region, such as beavers, wolves, or large herbivores, who help shape entire ecosystems.",
             "Rewilding can help combat climate change by removing more carbon dioxide from the atmosphere through healthy natural processes such as natural woodland regeneration. It also helps prevent species extinction by creating nature-rich habitats that allow wildlife to adapt to climate change and migrate as warming intensifies."
@@ -889,7 +912,7 @@
           "id": "the-paris-agreement",
           "phonetic": "noun /pærɪs əˈɡriːmənt/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "The Paris Agreement is a legally binding international treaty aiming to limit global warming to well below 2° C, preferably to 1.5° C, compared to pre-industrial levels. It was adopted by 196 Parties in 2015 at COP21 in Paris and entered into force in 2016.",
             "The Paris Agreement is a landmark achievement in international cooperation on climate change because it is a binding agreement for all Parties to scale up efforts to combat climate change and adapt to its effects. It also provides the instruments for developed nations to assist developing nations in their climate mitigation and adaptation efforts, while creating a framework for transparent monitoring and reporting of results."
@@ -900,7 +923,7 @@
           "id": "tipping-point",
           "phonetic": "noun /ˈtɪpɪŋ pɔɪnt/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "A tipping point is a threshold after which certain changes caused by global warming and climate change become irreversible, even if future interventions are successful in driving down average global temperatures. These changes may lead to abrupt and dangerous impacts with very serious implications for the future of humanity and our planet.",
             "As the world gets hotter, several tipping points are becoming very likely. One of them is the collapse of the Greenland and West Antarctic ice sheets, which would lead to significant sea level rise and threaten coastal communities and ecosystems. Another is the thawing",
@@ -912,7 +935,7 @@
           "id": "transparency",
           "phonetic": "noun /trænsˈpærənsi/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Under the Paris Agreement, countries must regularly report on the implementation of their Nationally Determined Contributions. It is crucial that this reporting is done with transparency to allow the global community to accurately assess collective progress and build trust that everyone is playing their part.",
             "Transparent reporting allows governments and international bodies to have access to reliable data and make evidence-based decisions. It also enhances our scientific understanding of climate change and the actions and policies needed to mitigate it and adapt to its impacts.",
@@ -929,7 +952,7 @@
           "id": "unfccc",
           "phonetic": "abbreviation",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "The United Nations Framework Convention on Climate Change (UNFCCC) is an international environmental treaty adopted in 1992 to combat dangerous human interference with the climate system. It entered into force in 1994 and enjoys near universal membership, having been signed by 198 parties. It is the parent treaty of both the Paris Agreement and the Kyoto Protocol.",
             "The UNFCCC secretariat is the United Nations entity tasked with supporting the global response to the threat of climate change. The secretariat facilitates intergovernmental climate change negotiations by organizing between two and four negotiating sessions each year, the largest and most important of which is the Conference of the Parties (COP). It also provides technical expertise and assists in the analysis and review of climate change information and maintains the registry of Nationally Determined Contributions (NDC)."
@@ -957,7 +980,7 @@
           "id": "weather-vs-climate",
           "phonetic": "noun /ˈˈklaɪmət/noun/ˈweðə(r)/",
           "source": "UNDP",
-          "sourceLink": "https://www.undp.org/",
+          "sourceLink": "https://climatepromise.undp.org/news-and-stories/climate-dictionary-everyday-guide-climate-change",
           "content": [
             "Weather refers to atmospheric conditions at a particular time in a particular location, including temperature, humidity, precipitation, cloudiness, wind, and visibility. Weather conditions do not happen in isolation, they have a ripple effect. The weather in one region will eventually affect the weather hundreds or thousands of kilometers away.",
             "Climate is the average of weather patterns in a specific area over a longer period of time, usually 30 or more years, that represents the overall state of the climate system.",
