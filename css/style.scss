@@ -364,6 +364,15 @@ section {
 	}
 }
 
+html[data-theme~='dark'] #intro {
+	background-color: var(--v-dark-grey);
+	color: var(--color-primary);
+	border-color: var(--border-colour);
+	> h1 {
+		color: var(--bg-tertiary);
+	}
+}
+
 #foreward > div {
 	@media(min-width: 768px){
 		columns: 2;
@@ -508,6 +517,20 @@ html[data-theme~='dark'] {
 				top: var(--nav-height);
 				left: 0;
 				gap: .25rem;
+			}
+		}
+	}
+}
+
+html[data-theme~='dark'] {
+	#dictionary > div {
+		aside {
+			nav {
+				a {
+					background-color: var(--v-dark-grey);
+					color: var(--color-primary);
+					border-color: var(--underline-colour);
+				}
 			}
 		}
 	}
