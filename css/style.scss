@@ -115,7 +115,8 @@ a {
 }
 
 html[data-theme~='dark'] a.btn {
-	color: var(--white);
+    background-color:var(--bg-tertiary);
+    color:var(--dark-grey);
 }
 
 h1,.h1 {
@@ -363,6 +364,11 @@ section {
 		}
 	}
 }
+html[data-theme~='dark'] #intro{
+    background-color:transparent;
+    border-color:var(--bg-tertiary);
+    color:var(--bg-tertiary);
+}
 
 html[data-theme~='dark'] #intro {
 	background-color: var(--v-dark-grey);
@@ -487,8 +493,8 @@ html[data-theme~='dark'] {
 				font-size: var(--size-400);
 				width: 24px;
 				height: 24px;
-				background-color: var(--white);
-				color: var(--dark-grey);
+				background-color:var(--bg-primary);
+				color:var(--color-primary);
 				border: 1px solid var(--border-colour);
 				border-radius: var(--border-radius);
 				text-align: center;
@@ -496,6 +502,7 @@ html[data-theme~='dark'] {
 				text-decoration: none;
 				&:target-current {
 					background-color: var(--bg-tertiary);
+					color:var(--dark-grey);
 				}
 			}
 		}
